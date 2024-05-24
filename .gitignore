@@ -1,0 +1,9 @@
+#module files
+node_modules/
+
+#build files
+dist/
+
+#enviroment files
+.env
+.env.production
